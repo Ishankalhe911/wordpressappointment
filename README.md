@@ -77,5 +77,5 @@ This project allows users to easily schedule appointments online without the nee
 **Ishan Kalhe**  
 🧑‍💻 Second-Year B.Tech Student | Web Developer  
 📧 ishankalhe1@gmail.com  
-🌐 [Portfolio (Coming Soon)](https://ishankalhe911.github.io/portfolio/)
+🌐 [Portfolio](https://ishankalhe911.github.io/portfolio/)
 
