@@ -48,9 +48,9 @@ This project allows users to easily schedule appointments online without the nee
 
 ## 📂 Project Files
 
-- 📄 [Project Report PDF] (https://docs.google.com/presentation/d/1eLgPv1Tp1OK4CLpyBMMXbVWd7pkHUn5S/edit?usp=sharing&ouid=116003516371983334784&rtpof=true&sd=true) 
+- 📄 [Project Report PDF](https://docs.google.com/presentation/d/1eLgPv1Tp1OK4CLpyBMMXbVWd7pkHUn5S/edit?usp=sharing&ouid=116003516371983334784&rtpof=true&sd=true) 
 - 📊 [SEO Audit Slides (PPTX)](https://drive.google.com/file/d/1CYk86JnB2NgTct0UsKHuTNuYTnPoiv3o/view?usp=sharing)
-- 🖼️ Screenshots (home page, booking form, mobile view) (https://drive.google.com/file/d/1_Eyw7NCWr7rNsOeozNRuRKkP_HXu_a7B/view?usp=sharing)
+- 🖼️ [Screenshots (home page, booking form, mobile view)](https://drive.google.com/file/d/1_Eyw7NCWr7rNsOeozNRuRKkP_HXu_a7B/view?usp=sharing)
 
 ---
 
